@@ -1,0 +1,9 @@
+<Settings>
+	<Load_Colour>100, 100, 140, 255</Load_Colour>
+	<Charge_Colour>100, 100, 140, 255</Charge_Colour>
+	<Battery_Colour>100, 100, 140, 255</Battery_Colour>
+	<vSync>1</vSync>
+	<FPS>60</FPS>
+	<xpos>10</xpos>
+	<ypos>10</ypos>
+</Settings>
